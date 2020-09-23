@@ -1,9 +1,7 @@
-### Hi there 👋
+# inhovation 👋
 
-<!--
-**inhovation97/inhovation97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## 파이썬을 활용해 ML/DL을 공부 중입니다.
+## Data Science를 위해 수리통계 선형 대수를 공부 중입니다.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
