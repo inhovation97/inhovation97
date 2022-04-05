@@ -6,7 +6,7 @@
 
 
 ### I`m the one who's studying Computer Vision   
-### I`d like to create the Inhovative service using Computer Vision task🤔   
+### I`d like to create the Inhovative service using Computer Vision tasks🤔   
 
 ###   
 #### 👇 Try visiting my blog   
