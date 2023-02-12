@@ -6,7 +6,7 @@
 
 
 ### I`m the one who's studying Computer Vision   
-### Now I`d like to be a good reseracher in Computer Vision👨‍💻   
+### Now I`d like to be a good researcher in Computer Vision👨‍💻   
 ###### Someday I`d like to create the Inhovative service using Computer Vision tasks🤔   
 
 ###   
