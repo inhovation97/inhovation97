@@ -6,11 +6,5 @@
 
 
 ### I`m the one who's studying Computer Vision   
-### Now I`d like to be a good researcher in Computer Vision👨‍💻   
-###### Someday I`ll create the Inhovative service using Computer Vision tasks🤔   
-
-###   
-#### 👇 Try visiting my blog   
-  <img src="https://img.shields.io/badge/Tistory-Inhovative%20AI-ff69b4"/>
 
 </div>
